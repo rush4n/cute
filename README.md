@@ -2,6 +2,8 @@
 
 A static analyzer for **Bril** programs.
 
+🚧 Under construction — Cute is currently being built as a learning project.
+
 ## Requirements
 
 ```
